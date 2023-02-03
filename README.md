@@ -33,7 +33,7 @@ The following modules and libraries are also useful.
 `import os
 import math, datetime, sys`
 
-
+Here we can contain our os module functions in our own functions and call them from other parts of our program.
 ```
 working_directory = os.getcwd()
 print(working_directory)
@@ -57,7 +57,7 @@ To import all the functions of a module, you can use the * key.
 
 `from modules import *`
 
-
+By calling our functions made in the previous file, we can print the data gathered by the .os functions.
 
 `return_user_id()`
 
