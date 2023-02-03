@@ -67,7 +67,7 @@ By calling our functions made in the previous file, we can print the data gather
 
 pip is Python's package manager and installer
 
-use `pip -V` in terminal to find version
+use `pip -V` in the terminal to find version
 
 requests is usfull for scraping data from the web.
 
