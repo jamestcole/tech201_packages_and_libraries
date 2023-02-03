@@ -1,10 +1,9 @@
 # Python Libraries
+import random
+print(random.random())
 
-#import random
-# print(random.random())
-
-#from random import random
-#print(random())
+from random import random
+print(random())
 
 # import math
 #
